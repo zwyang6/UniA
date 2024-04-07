@@ -10,7 +10,7 @@
 ## Overview
 We proposed UniA, an unified single-stage framework, to tackle the ambiguity issue in WSSS. 
 <p align="middle">
-<img src="/sources/overview.png" alt="UniA pipeline" width="600px">
+<img src="/sources/overview.png" alt="UniA pipeline" width="400px">
 </p>
 
 
