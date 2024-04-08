@@ -8,7 +8,7 @@
 * If you have any questions, please feel free to leave issues or contact us by zwyang21@m.fudan.edu.cn.
 
 ## Overview
-We proposed UniA, an unified single-stage framework, to tackle the ambiguity issue in WSSS. 
+We proposed UniA, a unified single-stage framework, to tackle the ambiguity issue in WSSS. 
 <p align="middle">
 <img src="/sources/overview.png" alt="UniA pipeline" width="500px">
 </p>
