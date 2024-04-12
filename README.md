@@ -22,7 +22,7 @@ Semantic performance on VOC and COCO. Logs are available now.
 | Dataset | Backbone |  Val  | Test | Log | Weight |
 |:-------:|:--------:|:-----:|:----:|:---:|:------:|
 |   PASCAL VOC   |   ViT-B  | 74.1  | [73.6](http://host.robots.ox.ac.uk:8080/anonymous/YZGTOM.html) | [log](logs/voc_train.log) | weight      |
-|   MS COCO  |   ViT-B  |  45.7 |   -  | [log](logs/coco_train.log) | weight       |
+|   MS COCO  |   ViT-B  |  43.2 |   -  | [log](logs/coco_train.log) | weight       |
 
 * **Qualitative Results**
   
