@@ -1,4 +1,4 @@
-# Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation
+# Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation [![arXiv](https://arxiv.org/pdf/2404.08195.pdf)
 
 
 ## News
