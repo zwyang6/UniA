@@ -28,3 +28,13 @@ Semantic performance on VOC and COCO. Logs are available now.
 <img src="/sources/results1.png" alt="UniA results" width="1200px">
 </p>
 
+## Citation 
+Please cite our work if you find it helpful to your reseach. :two_hearts:
+```bash
+@article{yang2024tackling,
+  title={Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation},
+  author={Yang, Zhiwei and Meng, Yucong and Fu, Kexue and Wang, Shuo and Song, Zhijian},
+  journal={arXiv preprint arXiv:2404.08195},
+  year={2024}
+}
+```
